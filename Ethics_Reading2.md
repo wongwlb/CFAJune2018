@@ -3,38 +3,21 @@
 [![Mark CFA: 4. CFA Level 1 Ethics Reading 2 LOS a](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=qyl7df1Q2QI&index=6&list=PLM9WI-4yn8BLZ8PXrjSj-gRwBmX-S3uum)
 
 ***
-LOS a - Explain ethics
+LOS a - Describe the structure of the Professional Conduct Program & process for enforcement of Code and Standards
 
-LOS b - Describe the role of a code of ethics in defining a profession
+LOS b - State the 6 componenets of the Code of Ethics and 7 Standards of Professional Conduct
 
-LOS c - Identify challenges to ethical behavior
-
-LOS d - Describe the importance of ethical conduct in the investment industry
-
-LOS e - Distinguish between ethical and legal standards
-
-LOS f - Describe and apply a framework for ethical decision making
+LOS c - Explain ethical responsibilities required by Code and Standards
 ***
 
-## LOSa - Explain ethics
+## LOSa - Describe Professional Conduct Program
 
-### Definition of Ethics: Encompasses a set of moral principles and rules of conduct that provide guidance for our behaviours
-#### 1. Moral/ethical principles
-- Beliefs regarding what is good, acceptable or obligatory behavior and what is bad, unacceptable or forbidden behaviour
-    (may be individual as well as shared beliefs regarding standards of behavior expected or required)
-#### 2. Ethical conduct 
-- Behavior that follows moral principles                  
-- Balances self-interest with direct/indirect consequences of behavior on others
-    (e.g. Honesty, fairness or justice, diligence, respect for the rights of others)
-#### 3. Code of ethics 
-- A codified guide that communicates an organization's/profession's expectations regarding member behavior
-#### 4. Standards of conduct
-- Established benchmarks that clarify or enhance a group's code of ethics
-    (e.g. minimally acceptable behavior)
-#### 5. Violations
-- Can harm the community's reputation both externally and internally
-- To protect innocent members (limit potential harm), violations are investigated
-    (e.g. repair damage, discipline violator, revoke membership)
+### All members & candidates (m/c) are required to comply with the Code & Standards (C/S)
+#### 1. CFA Board of Governors
+- who oversee (2) and (3) below, both of which are responsible for the enforcement of the (C/S)
+#### 2. Professional Conduct Program
+#### 3. Disciplinary Review
+- Made up of volunteers (CFA charterholders)
  
 * * *
 ## LOS b - Describe the role of a code of ethics in defining a profession
